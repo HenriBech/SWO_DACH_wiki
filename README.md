@@ -1,5 +1,5 @@
 # SWO_DACH_wiki
 Collaborative wiki for the SWO DACH apprentices
 
-In order to clone:
-`git clone https://github.com/HenriBech/SWO_DACH_wiki.wiki.git [local folder]`
+To clone, execute the following command from within the folder to store the wiki:
+`git clone https://github.com/HenriBech/SWO_DACH_wiki.wiki.git .`
